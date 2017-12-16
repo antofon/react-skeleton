@@ -1,0 +1,1 @@
+React skeleton for React App. To build upon this app, make sure "npm start" is running so that when you add new components and make changes, the changes will be tracked and taken into account upon compilation. 
